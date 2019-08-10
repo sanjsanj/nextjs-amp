@@ -21,9 +21,9 @@ export default function MyAmpPage() {
         publisher-logo-src="https://picsum.photos/100/100"
         poster-square-src="https://picsum.photos/100/100"
         publisher="The AMP Team"
-        supports-landscape
+        supports-landscape=""
         title="My Story"
-        standalone
+        standalone=""
       >
         <amp-story-page id="my-first-page">
           <amp-story-grid-layer template="fill">
