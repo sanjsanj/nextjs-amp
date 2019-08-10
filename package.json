@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-amp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjsanj/nextjs-amp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjsanj/nextjs-amp/issues"
+  },
+  "homepage": "https://github.com/sanjsanj/nextjs-amp#readme",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
