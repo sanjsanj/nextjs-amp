@@ -26,7 +26,7 @@ export default function Sidebar() {
           </li>
 
           <li>
-            <Link href={"/hello.html"}>
+            <Link href={"/hello.html"} as={"/hello"}>
               <a>Hello</a>
             </Link>
           </li>

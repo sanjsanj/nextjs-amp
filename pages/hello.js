@@ -53,10 +53,7 @@ export default function MyAmpPage() {
           </amp-story-grid-layer>
         </amp-story-page>
 
-        <amp-story-bookend
-          src="https://amp.dev/static/samples/json/bookend.json"
-          layout="nodisplay"
-        />
+        <amp-story-bookend src="./static/bookend.json" layout="nodisplay" />
       </amp-story>
     </>
   );
